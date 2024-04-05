@@ -3,7 +3,7 @@ Repositorio para aprender Linux
 
 ## Cómo Usar config
 
-Copiad el bashrc.template.sh en `~` y renombrad a .bashrc (haced un backup primero). 
+Copiad el bashrc.template.sh en `~` y renombrad a `.bashrc` (haced un backup primero). 
 
 Comandos:
 
