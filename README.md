@@ -1,6 +1,12 @@
 # learn-linux
 Repositorio para aprender Linux
 
+# Tutoriales
+
+Empieza los tutoriales en orden numérico en [tutoriales](./tutoriales/).
+
+GG EZ
+
 ## Cómo Usar config
 
 Copiad el bashrc.template.sh en `~` y renombrad a `.bashrc` (haced un backup primero). 
