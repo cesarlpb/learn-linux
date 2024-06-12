@@ -1,5 +1,5 @@
 # learn-linux
-Repositorio para aprender Linux
+Repositorio para aprender Linux (y Python y Django)
 
 # Tutoriales
 
